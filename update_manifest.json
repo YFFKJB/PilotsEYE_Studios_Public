@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "channel": "stable",
+  "software": {
+    "version": "1.0.0",
+    "download_url": "https://github.com/YFFKJB/PilotsEYE_Studios_Public/releases/download/v1.0.0/PilotsEYE.exe",
+    "sha256": "8612D02F28DBF41397EF5214F1BEE2A9A00257C6B08475EFE9DA4925FC2F3147",
+    "file_size": 82337322,
+    "release_date": "2026-04-10",
+    "release_notes": "PilotsEYE Studio v1.0.0 首个正式版本。",
+    "min_version": "1.0.0"
+  },
+  "firmware": null
+}

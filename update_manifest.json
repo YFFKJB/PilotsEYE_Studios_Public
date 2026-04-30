@@ -1,14 +1,14 @@
-{
-  "schema_version": 1,
-  "channel": "stable",
-  "software": {
-    "version": "1.0.0",
-    "download_url": "https://github.com/YFFKJB/PilotsEYE_Studios_Public/releases/download/v1.0.0/PilotsEYE.exe",
-    "sha256": "8612D02F28DBF41397EF5214F1BEE2A9A00257C6B08475EFE9DA4925FC2F3147",
-    "file_size": 82337322,
-    "release_date": "2026-04-10",
-    "release_notes": "PilotsEYE Studio v1.0.0 首个正式版本。",
-    "min_version": "1.0.0"
-  },
-  "firmware": null
+﻿{
+    "schema_version":  1,
+    "channel":  "stable",
+    "firmware":  null,
+    "software":  {
+                     "version":  "2.0.0",
+                     "release_notes":  "PilotsEYE Studio v2.0.0：MCP 两档开关与设备页、EFIS 双会话等（详见私有源码仓库 changelog）。",
+                     "sha256":  "A19D9D45F3CAF27D68C7486CC0AD799F26F055152BE91EAB740026E86F27209B",
+                     "download_url":  "https://github.com/YFFKJB/PilotsEYE_Studios_Public/releases/download/v2.0.0/PilotsEYE.exe",
+                     "file_size":  82692861,
+                     "min_version":  "1.0.0",
+                     "release_date":  "2026-04-30"
+                 }
 }

@@ -1,14 +1,14 @@
 ﻿{
-    "schema_version":  1,
-    "channel":  "stable",
-    "firmware":  null,
-    "software":  {
-                     "version":  "2.0.0",
-                     "release_notes":  "PilotsEYE Studio v2.0.0：MCP 两档开关与设备页、EFIS 双会话等（详见私有源码仓库 changelog）。",
-                     "sha256":  "A19D9D45F3CAF27D68C7486CC0AD799F26F055152BE91EAB740026E86F27209B",
-                     "download_url":  "https://github.com/YFFKJB/PilotsEYE_Studios_Public/releases/download/v2.0.0/PilotsEYE.exe",
-                     "file_size":  82692861,
-                     "min_version":  "1.0.0",
-                     "release_date":  "2026-04-30"
-                 }
+  "schema_version": 1,
+  "channel": "stable",
+  "software": {
+    "version": "2.0.1",
+    "download_url": "https://github.com/YFFKJB/PilotsEYE_Studios_Public/releases/download/v2.0.1/PilotsEYE.exe",
+    "sha256": "B4FA4F359EB64C1CC0444689B344E291ACFC30B3D5CE1C255321433F16EF5D4C",
+    "file_size": 82681050,
+    "release_date": "2026-05-07",
+    "release_notes": "PilotsEYE Studio v2.0.1\n\n- 界面：移除「监控」页及 SimVar 调试探针相关代码\n- 设置：检测到新版本时，侧栏「设置」与「检查更新」旁显示绿色提醒点\n- 设置：移除「重新连接模拟器」按钮（连接由后台自动维护）\n- 设备：TRIM CAN 配平转速区新增「配平轮启用」开关；关闭时停止 CAN 电机输出",
+    "min_version": "1.0.0"
+  },
+  "firmware": null
 }
